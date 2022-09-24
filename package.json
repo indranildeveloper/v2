@@ -17,7 +17,8 @@
     "react-icons": "^4.4.0",
     "react-vertical-timeline-component": "^3.5.2",
     "scrollreveal": "^4.0.9",
-    "tailwindcss": "^3.1.8"
+    "tailwindcss": "^3.1.8",
+    "theme-change": "^2.2.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.17",

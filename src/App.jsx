@@ -10,7 +10,7 @@ import Footer from "./components/Footer";
 
 const App = () => {
   return (
-    <div className="relative h-screen w-screen">
+    <div className="h-screen w-screen">
       <NavBar>
         <Email />
         <Social />
