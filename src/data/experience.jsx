@@ -6,7 +6,7 @@ export const experience = [
     id: 1,
     name: "Private AI",
     description:
-      "Currently working as Frontend Developer and worked on several projects and tasks from building frontend applications, maintaining the website to deploying web applications to Azure.",
+      "Currently working as Frontend Developer and worked on several projects and tasks from building frontend applications, maintaining the website to deploying web applications to Cloud.",
     from: "13th June, 2022",
     to: "Current",
     icon: <MdWorkOutline />,
